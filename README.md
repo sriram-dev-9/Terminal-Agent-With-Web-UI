@@ -87,7 +87,7 @@ python-dotenv==1.1.0           # Environment variable management
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/gyerra/Terminal-Agent.git
+   git clone https://github.com/sriram-dev-9/Terminal-Agent-With-Web-UI.git
    cd Terminal-Agent
    ```
 
@@ -97,15 +97,15 @@ python-dotenv==1.1.0           # Environment variable management
    ```
 
 3. **Get your FREE Gemini API key**
-   - Go to: https://makersuite.google.com/app/apikey
+   - Go to: https://aistudio.google.com
    - Sign in with Google account
    - Click "Create API Key"
-   - Copy the key (starts with `AIza...`)
+   - Copy the key
 
 4. **Configure API key**
    ```bash
    # Edit .env file and add your Gemini API key
-   GEMINI_API_KEY=AIza-your-actual-key-here
+   GEMINI_API_KEY=Your-actual-key-here
    ```
 
 ## 💻 Usage
